@@ -5,7 +5,7 @@
 ![Maven](https://img.shields.io/badge/build-Maven-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-A Java library implementing core quantitative finance models for interest rate analytics, swap valuation, and Monte Carlo option pricing — built as part of a **Computational Finance** course (M.Sc. Mathematics, LMU Munich).
+A Java library implementing core quantitative finance models for interest rate analytics, swap valuation, and Monte Carlo option pricing — built as part of a **Computational Finance** course.
 
 ---
 
